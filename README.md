@@ -14,9 +14,9 @@ Building a progressive web application that runs as a text editor in the browser
 
 ## Deployed Application
 
-[Heroku:](https://text-editor-zahra.herokuapp.com/)
+[Click For Heroku](https://text-editor-zahra.herokuapp.com/)
 
-[GitHub:](https://github.com/zahrahaji10/pwa-text-editor/tree/dev)
+[Click For GitHub](https://github.com/zahrahaji10/pwa-text-editor/tree/dev)
 
 ## User Story
 
